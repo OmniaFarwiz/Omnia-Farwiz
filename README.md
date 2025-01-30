@@ -63,7 +63,7 @@
 #### 1. [KidsEn Website]( https://lnkd.in/df7W5v8S)
    - **Description**: is a fun and interactive project designed to help kids aged 4-12 learn English in an engaging and playful way. The program focuses on building essential language skills through games, stories, and activities.
    - **Technologies**: HTML, CSS, JavaScript.
-   - **Link**: [Live Demo](https://task-manager-demo.herokuapp.com)
+   - **Link**: [Live Demo](https://OmniaFarwiz.github.io/KidsEn/)
 
 
 
